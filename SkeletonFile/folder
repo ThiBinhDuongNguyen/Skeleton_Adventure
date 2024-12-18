@@ -1,1 +1,25 @@
+🎮 Skeleton Adventure: 2D Game Project
 
+🚀 Game Overview
+Welcome to Skeleton Adventure, an immersive 2D game built using C# and Windows Forms App. This project is a perfect blend of creativity, logic, and technical execution—bringing a simple yet thrilling game to life.
+
+You take control of the Green Skeleton (Player), navigating through platforms, collecting points, and overcoming challenges. But beware! Enemies and wire traps stand in your way. Your ultimate goal? Reach the Target and claim victory!
+
+🕹️ How to Play
+Controls:
+
+Left Arrow: Move Left
+Right Arrow: Move Right
+Spacebar: Jump
+Objective:
+
+Collect points, avoid enemies, and reach the target.
+Winning Conditions:
+
+Collide with the Target/Home → Game Won 🎉
+Losing Conditions:
+
+Collide with enemies or wire mesh → Game Lost 💀
+
+💡 Final Thoughts
+Skeleton Adventure is more than a project—it’s a celebration of programming, creativity, and problem-solving. I look forward to showcasing the game and defending my work during the demo session.
