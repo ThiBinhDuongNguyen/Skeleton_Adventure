@@ -77,14 +77,10 @@ This game isn’t just about code—it’s about building an experience:
 
 - Collide with enemies or wire mesh → **Game Lost 💀**
   
-**🧾 How to Run the Project**
-1. Clone the repository to your local machine:
-   git clone https://github.com/YourUsername/SkeletonGame.git  
+**🧾 The Requirements vs What i did**
 
-2. Open the project in Visual Studio.
-   
-3. Build and run the project (F5).
+![image](https://github.com/user-attachments/assets/7f41e2dc-31d8-4db3-b1fe-2b3f5abd9f36)
 
-4. Enjoy the game!
+![image](https://github.com/user-attachments/assets/c7db4e05-7786-4890-b24a-b64e71570d18)
 
 Let me know if you'd like further refinements or additions! This version captures the effort and enthusiasm while keeping it professional and engaging. 🚀
